@@ -1,3 +1,6 @@
+import { useParms, useNavigate } from "react-router-dom"
+import { listaProdutos } from "../../components/listaProdutos"
+
 export default function EditarProdutos(){
     
     return(
