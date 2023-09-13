@@ -1,4 +1,4 @@
-import { useParms, useNavigate, useParams } from "react-router-dom"
+import { useParams, useNavigate } from "react-router-dom"
 import { listaProdutos } from "../../components/listaProdutos"
 
 export default function EditarProdutos(){
